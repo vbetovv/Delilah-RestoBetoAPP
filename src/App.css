@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+.login .linkBtn {
+  color: #fc885c;
+  border: 0;
+}
+
+.login .linkBtn:hover {
+  background-color: transparent !important;
+  text-decoration: underline;
+}
+
+.login .linkBtn:active {
+  background-color: transparent !important;
+  border: 0px solid #fc885c !important;
+  outline: none !important;
+}
